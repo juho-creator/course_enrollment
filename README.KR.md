@@ -1,4 +1,6 @@
-# Course_Enrollment
+[![English](https://img.shields.io/badge/lang-English-blue.svg)](https://github.com/juho-creator/course_enrollment/blob/main/README.md)
+
+# 수강신청
 수강신청을 위한 Logitech G502 LUA 스크립트
 
 ## 시연
