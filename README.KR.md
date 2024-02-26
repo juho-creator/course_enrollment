@@ -1,6 +1,6 @@
 [![English](https://img.shields.io/badge/lang-English-blue.svg)](https://github.com/juho-creator/course_enrollment/blob/main/README.md)
 
-# 수강신청
+# 수강신청 메크로 
 수강신청을 위한 Logitech G502 LUA 스크립트
 
 ## 시연
@@ -13,6 +13,6 @@
 3. 즉시 수강신청 버튼으로 이동하려면 오른쪽 버튼을 클릭합니다.
 
 ## 참고 자료
-- [Logitech Lua 스크립트 101](https://www.youtube.com/watch?v=lnUPO-_RvsM&list=PLqBxt4UUIGqCo8-J3IpaWyyDT5_QKM35G&index=1)
+- [Logitech Lua 스크립트 튜토리얼](https://www.youtube.com/watch?v=lnUPO-_RvsM&list=PLqBxt4UUIGqCo8-J3IpaWyyDT5_QKM35G&index=1)
 - [Lua 문서](https://www.lua.org/)
 - [Logitech G HUB Lua API 문서](https://github.com/juho-creator/course_enrollment/blob/main/G_series_Lua_API.pdf)
