@@ -1,3 +1,6 @@
+[![English](https://img.shields.io/badge/lang-English-blue.svg)](https://github.com/juho-creator/course_enrollment/blob/main/README.md)
+[![한국어](https://img.shields.io/badge/lang-한국어-red.svg)](https://github.com/juho-creator/course_enrollment/blob/main/README.KR.md)
+
 # 选课宏
 适用于课程选课的罗技 G502 LUA 脚本
 </br></br>
