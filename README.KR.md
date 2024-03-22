@@ -1,4 +1,5 @@
 [![English](https://img.shields.io/badge/lang-English-blue.svg)](https://github.com/juho-creator/course_enrollment/blob/main/README.md)
+[![汉语](https://img.shields.io/badge/lang-汉语-green.svg)](https://github.com/juho-creator/course_enrollment/blob/main/README.CH.md)
 
 # 수강신청 메크로 
 수강신청을 위한 Logitech G502 LUA 스크립트
