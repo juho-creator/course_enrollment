@@ -1,5 +1,6 @@
 [![English](https://img.shields.io/badge/lang-English-blue.svg)](https://github.com/juho-creator/course_enrollment/blob/main/README.md)
 [![한국어](https://img.shields.io/badge/lang-한국어-red.svg)](https://github.com/juho-creator/course_enrollment/blob/main/README.KR.md)
+[![汉语](https://img.shields.io/badge/lang-汉语-green.svg)](https://github.com/juho-creator/course_enrollment/blob/main/README.CH.md)
 
 # Course Enrollment Macro 
 Logitech G502 LUA script for course enrollment 
